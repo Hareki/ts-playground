@@ -1,1 +1,1 @@
-Execute files by running ts-node (Make sure to install ts-node globally first)
+Execute files with ts-node
